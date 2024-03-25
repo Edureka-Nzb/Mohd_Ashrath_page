@@ -1,0 +1,49 @@
+
+#box {
+    width: 280px;
+    height: 500px;
+    margin: auto;
+    background-color: rgb(74, 72, 72);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+h1 {
+    color: #ffff;
+    text-align: center;
+}
+
+.para1 {
+    text-align: center;
+}
+
+.input2 {
+    width: 270px;
+    height: 30px;
+    background-color: rgb(188, 187, 187);
+    border: 2px solid white;
+}
+
+label {
+    color: #ffff;
+}
+
+#button {
+    width: 250px;
+    margin: auto;
+}
+
+button {
+    width: 250px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: orange;
+}
+.login1{
+    text-align: center;
+}
+.login1 i{
+    margin-left: 30px;
+    padding: 10px;
+    position: absolute;
+}
